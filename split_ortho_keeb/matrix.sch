@@ -1,0 +1,1358 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 3 3
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	4400 2600 5350 2600
+Connection ~ 4400 2600
+Wire Wire Line
+	4400 2500 4400 2600
+Wire Wire Line
+	2350 3000 2350 3100
+Wire Wire Line
+	4400 4600 3400 4600
+Connection ~ 4400 4600
+Wire Wire Line
+	4400 4500 4400 4600
+Wire Wire Line
+	3400 4600 2350 4600
+Connection ~ 3400 4600
+Wire Wire Line
+	3400 4500 3400 4600
+Wire Wire Line
+	2350 4600 2050 4600
+Connection ~ 2350 4600
+Wire Wire Line
+	2350 4500 2350 4600
+Wire Wire Line
+	5350 4600 4400 4600
+Wire Wire Line
+	5350 4500 5350 4600
+Wire Wire Line
+	4400 4100 3400 4100
+Connection ~ 4400 4100
+Wire Wire Line
+	4400 4000 4400 4100
+Wire Wire Line
+	3400 4100 2350 4100
+Connection ~ 3400 4100
+Wire Wire Line
+	3400 4000 3400 4100
+Wire Wire Line
+	2350 4100 2050 4100
+Connection ~ 2350 4100
+Wire Wire Line
+	2350 4000 2350 4100
+Wire Wire Line
+	5350 4100 4400 4100
+Wire Wire Line
+	5350 4000 5350 4100
+Wire Wire Line
+	4400 3600 3400 3600
+Connection ~ 4400 3600
+Wire Wire Line
+	4400 3500 4400 3600
+Wire Wire Line
+	3400 3600 2350 3600
+Connection ~ 3400 3600
+Wire Wire Line
+	3400 3500 3400 3600
+Wire Wire Line
+	2350 3600 2050 3600
+Connection ~ 2350 3600
+Wire Wire Line
+	2350 3500 2350 3600
+Wire Wire Line
+	5350 3600 4400 3600
+Wire Wire Line
+	5350 3500 5350 3600
+Wire Wire Line
+	4400 3100 3400 3100
+Connection ~ 4400 3100
+Wire Wire Line
+	4400 3000 4400 3100
+Wire Wire Line
+	3400 3100 2350 3100
+Connection ~ 3400 3100
+Wire Wire Line
+	3400 3000 3400 3100
+Wire Wire Line
+	2350 3100 2050 3100
+Connection ~ 2350 3100
+Wire Wire Line
+	5350 3100 4400 3100
+Wire Wire Line
+	5350 3000 5350 3100
+Wire Wire Line
+	5350 2600 5350 2500
+Connection ~ 3400 2600
+Wire Wire Line
+	3400 2600 4400 2600
+Wire Wire Line
+	2350 2600 3400 2600
+Connection ~ 2350 2600
+Wire Wire Line
+	2350 2500 2350 2600
+Wire Wire Line
+	2050 2600 2350 2600
+Wire Wire Line
+	3400 2500 3400 2600
+Wire Wire Line
+	6050 4000 6050 4500
+Connection ~ 6050 4000
+Wire Wire Line
+	6050 3500 6050 4000
+Connection ~ 6050 3500
+Wire Wire Line
+	6050 3000 6050 3500
+Connection ~ 6050 3000
+Wire Wire Line
+	6050 2500 6050 3000
+Connection ~ 6050 2500
+Wire Wire Line
+	6050 2000 6050 2500
+Wire Wire Line
+	5100 4000 5100 4500
+Connection ~ 5100 4000
+Wire Wire Line
+	5100 3500 5100 4000
+Connection ~ 5100 3500
+Wire Wire Line
+	5100 3000 5100 3500
+Connection ~ 5100 3000
+Wire Wire Line
+	5100 2500 5100 3000
+Connection ~ 5100 2500
+Wire Wire Line
+	5100 2000 5100 2500
+Wire Wire Line
+	4100 4000 4100 4500
+Connection ~ 4100 4000
+Wire Wire Line
+	4100 3500 4100 4000
+Connection ~ 4100 3500
+Wire Wire Line
+	4100 3000 4100 3500
+Connection ~ 4100 3000
+Wire Wire Line
+	4100 2500 4100 3000
+Connection ~ 4100 2500
+Wire Wire Line
+	4100 2000 4100 2500
+Connection ~ 3050 4000
+Wire Wire Line
+	3050 4000 3050 4500
+Connection ~ 3050 3500
+Wire Wire Line
+	3050 3500 3050 4000
+Connection ~ 3050 3000
+Wire Wire Line
+	3050 3000 3050 3500
+Connection ~ 3050 2500
+Wire Wire Line
+	3050 2500 3050 3000
+Wire Wire Line
+	3050 2050 3050 2500
+$Comp
+L Device:D D?
+U 1 1 5FCD1FAC
+P 5500 4500
+AR Path="/5FCD1FAC" Ref="D?"  Part="1" 
+AR Path="/5FC6757F/5FCD1FAC" Ref="D20"  Part="1" 
+AR Path="/5FBF90FF/5FCD1FAC" Ref="D?"  Part="1" 
+AR Path="/5FC00905/5FCD1FAC" Ref="D55"  Part="1" 
+F 0 "D55" H 5500 4717 50  0000 C CNN
+F 1 "D" H 5500 4626 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 5500 4500 50  0001 C CNN
+F 3 "~" H 5500 4500 50  0001 C CNN
+	1    5500 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5FCD1FB2
+P 5500 4000
+AR Path="/5FCD1FB2" Ref="D?"  Part="1" 
+AR Path="/5FC6757F/5FCD1FB2" Ref="D19"  Part="1" 
+AR Path="/5FBF90FF/5FCD1FB2" Ref="D?"  Part="1" 
+AR Path="/5FC00905/5FCD1FB2" Ref="D54"  Part="1" 
+F 0 "D54" H 5500 4217 50  0000 C CNN
+F 1 "D" H 5500 4126 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 5500 4000 50  0001 C CNN
+F 3 "~" H 5500 4000 50  0001 C CNN
+	1    5500 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5FCD1FB8
+P 5500 3500
+AR Path="/5FCD1FB8" Ref="D?"  Part="1" 
+AR Path="/5FC6757F/5FCD1FB8" Ref="D18"  Part="1" 
+AR Path="/5FBF90FF/5FCD1FB8" Ref="D?"  Part="1" 
+AR Path="/5FC00905/5FCD1FB8" Ref="D53"  Part="1" 
+F 0 "D53" H 5500 3717 50  0000 C CNN
+F 1 "D" H 5500 3626 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 5500 3500 50  0001 C CNN
+F 3 "~" H 5500 3500 50  0001 C CNN
+	1    5500 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5FCD1FBE
+P 5500 3000
+AR Path="/5FCD1FBE" Ref="D?"  Part="1" 
+AR Path="/5FC6757F/5FCD1FBE" Ref="D17"  Part="1" 
+AR Path="/5FBF90FF/5FCD1FBE" Ref="D?"  Part="1" 
+AR Path="/5FC00905/5FCD1FBE" Ref="D52"  Part="1" 
+F 0 "D52" H 5500 3217 50  0000 C CNN
+F 1 "D" H 5500 3126 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 5500 3000 50  0001 C CNN
+F 3 "~" H 5500 3000 50  0001 C CNN
+	1    5500 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5FCD1FC4
+P 5500 2500
+AR Path="/5FCD1FC4" Ref="D?"  Part="1" 
+AR Path="/5FC6757F/5FCD1FC4" Ref="D16"  Part="1" 
+AR Path="/5FBF90FF/5FCD1FC4" Ref="D?"  Part="1" 
+AR Path="/5FC00905/5FCD1FC4" Ref="D51"  Part="1" 
+F 0 "D51" H 5500 2717 50  0000 C CNN
+F 1 "D" H 5500 2626 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 5500 2500 50  0001 C CNN
+F 3 "~" H 5500 2500 50  0001 C CNN
+	1    5500 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5FCD1FCA
+P 4550 4500
+AR Path="/5FCD1FCA" Ref="D?"  Part="1" 
+AR Path="/5FC6757F/5FCD1FCA" Ref="D15"  Part="1" 
+AR Path="/5FBF90FF/5FCD1FCA" Ref="D?"  Part="1" 
+AR Path="/5FC00905/5FCD1FCA" Ref="D50"  Part="1" 
+F 0 "D50" H 4550 4717 50  0000 C CNN
+F 1 "D" H 4550 4626 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4550 4500 50  0001 C CNN
+F 3 "~" H 4550 4500 50  0001 C CNN
+	1    4550 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5FCD1FD0
+P 4550 4000
+AR Path="/5FCD1FD0" Ref="D?"  Part="1" 
+AR Path="/5FC6757F/5FCD1FD0" Ref="D14"  Part="1" 
+AR Path="/5FBF90FF/5FCD1FD0" Ref="D?"  Part="1" 
+AR Path="/5FC00905/5FCD1FD0" Ref="D49"  Part="1" 
+F 0 "D49" H 4550 4217 50  0000 C CNN
+F 1 "D" H 4550 4126 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4550 4000 50  0001 C CNN
+F 3 "~" H 4550 4000 50  0001 C CNN
+	1    4550 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5FCD1FD6
+P 4550 3500
+AR Path="/5FCD1FD6" Ref="D?"  Part="1" 
+AR Path="/5FC6757F/5FCD1FD6" Ref="D13"  Part="1" 
+AR Path="/5FBF90FF/5FCD1FD6" Ref="D?"  Part="1" 
+AR Path="/5FC00905/5FCD1FD6" Ref="D48"  Part="1" 
+F 0 "D48" H 4550 3717 50  0000 C CNN
+F 1 "D" H 4550 3626 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4550 3500 50  0001 C CNN
+F 3 "~" H 4550 3500 50  0001 C CNN
+	1    4550 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5FCD1FDC
+P 4550 3000
+AR Path="/5FCD1FDC" Ref="D?"  Part="1" 
+AR Path="/5FC6757F/5FCD1FDC" Ref="D12"  Part="1" 
+AR Path="/5FBF90FF/5FCD1FDC" Ref="D?"  Part="1" 
+AR Path="/5FC00905/5FCD1FDC" Ref="D47"  Part="1" 
+F 0 "D47" H 4550 3217 50  0000 C CNN
+F 1 "D" H 4550 3126 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4550 3000 50  0001 C CNN
+F 3 "~" H 4550 3000 50  0001 C CNN
+	1    4550 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5FCD1FE2
+P 4550 2500
+AR Path="/5FCD1FE2" Ref="D?"  Part="1" 
+AR Path="/5FC6757F/5FCD1FE2" Ref="D11"  Part="1" 
+AR Path="/5FBF90FF/5FCD1FE2" Ref="D?"  Part="1" 
+AR Path="/5FC00905/5FCD1FE2" Ref="D46"  Part="1" 
+F 0 "D46" H 4550 2717 50  0000 C CNN
+F 1 "D" H 4550 2626 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4550 2500 50  0001 C CNN
+F 3 "~" H 4550 2500 50  0001 C CNN
+	1    4550 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5FCD1FE8
+P 3550 4500
+AR Path="/5FCD1FE8" Ref="D?"  Part="1" 
+AR Path="/5FC6757F/5FCD1FE8" Ref="D10"  Part="1" 
+AR Path="/5FBF90FF/5FCD1FE8" Ref="D?"  Part="1" 
+AR Path="/5FC00905/5FCD1FE8" Ref="D45"  Part="1" 
+F 0 "D45" H 3550 4717 50  0000 C CNN
+F 1 "D" H 3550 4626 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 3550 4500 50  0001 C CNN
+F 3 "~" H 3550 4500 50  0001 C CNN
+	1    3550 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5FCD1FEE
+P 3550 4000
+AR Path="/5FCD1FEE" Ref="D?"  Part="1" 
+AR Path="/5FC6757F/5FCD1FEE" Ref="D9"  Part="1" 
+AR Path="/5FBF90FF/5FCD1FEE" Ref="D?"  Part="1" 
+AR Path="/5FC00905/5FCD1FEE" Ref="D44"  Part="1" 
+F 0 "D44" H 3550 4217 50  0000 C CNN
+F 1 "D" H 3550 4126 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 3550 4000 50  0001 C CNN
+F 3 "~" H 3550 4000 50  0001 C CNN
+	1    3550 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5FCD1FF4
+P 3550 3500
+AR Path="/5FCD1FF4" Ref="D?"  Part="1" 
+AR Path="/5FC6757F/5FCD1FF4" Ref="D8"  Part="1" 
+AR Path="/5FBF90FF/5FCD1FF4" Ref="D?"  Part="1" 
+AR Path="/5FC00905/5FCD1FF4" Ref="D43"  Part="1" 
+F 0 "D43" H 3550 3717 50  0000 C CNN
+F 1 "D" H 3550 3626 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 3550 3500 50  0001 C CNN
+F 3 "~" H 3550 3500 50  0001 C CNN
+	1    3550 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5FCD1FFA
+P 3550 3000
+AR Path="/5FCD1FFA" Ref="D?"  Part="1" 
+AR Path="/5FC6757F/5FCD1FFA" Ref="D7"  Part="1" 
+AR Path="/5FBF90FF/5FCD1FFA" Ref="D?"  Part="1" 
+AR Path="/5FC00905/5FCD1FFA" Ref="D42"  Part="1" 
+F 0 "D42" H 3550 3217 50  0000 C CNN
+F 1 "D" H 3550 3126 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 3550 3000 50  0001 C CNN
+F 3 "~" H 3550 3000 50  0001 C CNN
+	1    3550 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5FCD2000
+P 3550 2500
+AR Path="/5FCD2000" Ref="D?"  Part="1" 
+AR Path="/5FC6757F/5FCD2000" Ref="D6"  Part="1" 
+AR Path="/5FBF90FF/5FCD2000" Ref="D?"  Part="1" 
+AR Path="/5FC00905/5FCD2000" Ref="D41"  Part="1" 
+F 0 "D41" H 3550 2717 50  0000 C CNN
+F 1 "D" H 3550 2626 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 3550 2500 50  0001 C CNN
+F 3 "~" H 3550 2500 50  0001 C CNN
+	1    3550 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5FCD2006
+P 2500 4500
+AR Path="/5FCD2006" Ref="D?"  Part="1" 
+AR Path="/5FC6757F/5FCD2006" Ref="D5"  Part="1" 
+AR Path="/5FBF90FF/5FCD2006" Ref="D?"  Part="1" 
+AR Path="/5FC00905/5FCD2006" Ref="D40"  Part="1" 
+F 0 "D40" H 2500 4717 50  0000 C CNN
+F 1 "D" H 2500 4626 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 2500 4500 50  0001 C CNN
+F 3 "~" H 2500 4500 50  0001 C CNN
+	1    2500 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5FCD200C
+P 2500 4000
+AR Path="/5FCD200C" Ref="D?"  Part="1" 
+AR Path="/5FC6757F/5FCD200C" Ref="D4"  Part="1" 
+AR Path="/5FBF90FF/5FCD200C" Ref="D?"  Part="1" 
+AR Path="/5FC00905/5FCD200C" Ref="D39"  Part="1" 
+F 0 "D39" H 2500 4217 50  0000 C CNN
+F 1 "D" H 2500 4126 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 2500 4000 50  0001 C CNN
+F 3 "~" H 2500 4000 50  0001 C CNN
+	1    2500 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5FCD2012
+P 2500 3500
+AR Path="/5FCD2012" Ref="D?"  Part="1" 
+AR Path="/5FC6757F/5FCD2012" Ref="D3"  Part="1" 
+AR Path="/5FBF90FF/5FCD2012" Ref="D?"  Part="1" 
+AR Path="/5FC00905/5FCD2012" Ref="D38"  Part="1" 
+F 0 "D38" H 2500 3717 50  0000 C CNN
+F 1 "D" H 2500 3626 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 2500 3500 50  0001 C CNN
+F 3 "~" H 2500 3500 50  0001 C CNN
+	1    2500 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5FCD2018
+P 2500 3000
+AR Path="/5FCD2018" Ref="D?"  Part="1" 
+AR Path="/5FC6757F/5FCD2018" Ref="D2"  Part="1" 
+AR Path="/5FBF90FF/5FCD2018" Ref="D?"  Part="1" 
+AR Path="/5FC00905/5FCD2018" Ref="D37"  Part="1" 
+F 0 "D37" H 2500 3217 50  0000 C CNN
+F 1 "D" H 2500 3126 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 2500 3000 50  0001 C CNN
+F 3 "~" H 2500 3000 50  0001 C CNN
+	1    2500 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5FCD201E
+P 2500 2500
+AR Path="/5FCD201E" Ref="D?"  Part="1" 
+AR Path="/5FC6757F/5FCD201E" Ref="D1"  Part="1" 
+AR Path="/5FBF90FF/5FCD201E" Ref="D?"  Part="1" 
+AR Path="/5FC00905/5FCD201E" Ref="D36"  Part="1" 
+F 0 "D36" H 2500 2717 50  0000 C CNN
+F 1 "D" H 2500 2626 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 2500 2500 50  0001 C CNN
+F 3 "~" H 2500 2500 50  0001 C CNN
+	1    2500 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5FCD2024
+P 5850 4500
+AR Path="/5FCD2024" Ref="SW?"  Part="1" 
+AR Path="/5FC6757F/5FCD2024" Ref="SW20"  Part="1" 
+AR Path="/5FBF90FF/5FCD2024" Ref="SW?"  Part="1" 
+AR Path="/5FC00905/5FCD2024" Ref="SW55"  Part="1" 
+F 0 "SW55" H 5850 4785 50  0000 C CNN
+F 1 "SW_Push" H 5850 4694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 5850 4700 50  0001 C CNN
+F 3 "~" H 5850 4700 50  0001 C CNN
+	1    5850 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5FCD202A
+P 5850 4000
+AR Path="/5FCD202A" Ref="SW?"  Part="1" 
+AR Path="/5FC6757F/5FCD202A" Ref="SW19"  Part="1" 
+AR Path="/5FBF90FF/5FCD202A" Ref="SW?"  Part="1" 
+AR Path="/5FC00905/5FCD202A" Ref="SW54"  Part="1" 
+F 0 "SW54" H 5850 4285 50  0000 C CNN
+F 1 "SW_Push" H 5850 4194 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 5850 4200 50  0001 C CNN
+F 3 "~" H 5850 4200 50  0001 C CNN
+	1    5850 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5FCD2030
+P 5850 3500
+AR Path="/5FCD2030" Ref="SW?"  Part="1" 
+AR Path="/5FC6757F/5FCD2030" Ref="SW18"  Part="1" 
+AR Path="/5FBF90FF/5FCD2030" Ref="SW?"  Part="1" 
+AR Path="/5FC00905/5FCD2030" Ref="SW53"  Part="1" 
+F 0 "SW53" H 5850 3785 50  0000 C CNN
+F 1 "SW_Push" H 5850 3694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 5850 3700 50  0001 C CNN
+F 3 "~" H 5850 3700 50  0001 C CNN
+	1    5850 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5FCD2036
+P 5850 3000
+AR Path="/5FCD2036" Ref="SW?"  Part="1" 
+AR Path="/5FC6757F/5FCD2036" Ref="SW17"  Part="1" 
+AR Path="/5FBF90FF/5FCD2036" Ref="SW?"  Part="1" 
+AR Path="/5FC00905/5FCD2036" Ref="SW52"  Part="1" 
+F 0 "SW52" H 5850 3285 50  0000 C CNN
+F 1 "SW_Push" H 5850 3194 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 5850 3200 50  0001 C CNN
+F 3 "~" H 5850 3200 50  0001 C CNN
+	1    5850 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5FCD203C
+P 5850 2500
+AR Path="/5FCD203C" Ref="SW?"  Part="1" 
+AR Path="/5FC6757F/5FCD203C" Ref="SW16"  Part="1" 
+AR Path="/5FBF90FF/5FCD203C" Ref="SW?"  Part="1" 
+AR Path="/5FC00905/5FCD203C" Ref="SW51"  Part="1" 
+F 0 "SW51" H 5850 2785 50  0000 C CNN
+F 1 "SW_Push" H 5850 2694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 5850 2700 50  0001 C CNN
+F 3 "~" H 5850 2700 50  0001 C CNN
+	1    5850 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5FCD2042
+P 4900 2500
+AR Path="/5FCD2042" Ref="SW?"  Part="1" 
+AR Path="/5FC6757F/5FCD2042" Ref="SW11"  Part="1" 
+AR Path="/5FBF90FF/5FCD2042" Ref="SW?"  Part="1" 
+AR Path="/5FC00905/5FCD2042" Ref="SW46"  Part="1" 
+F 0 "SW46" H 4900 2785 50  0000 C CNN
+F 1 "SW_Push" H 4900 2694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 4900 2700 50  0001 C CNN
+F 3 "~" H 4900 2700 50  0001 C CNN
+	1    4900 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5FCD2048
+P 4900 3000
+AR Path="/5FCD2048" Ref="SW?"  Part="1" 
+AR Path="/5FC6757F/5FCD2048" Ref="SW12"  Part="1" 
+AR Path="/5FBF90FF/5FCD2048" Ref="SW?"  Part="1" 
+AR Path="/5FC00905/5FCD2048" Ref="SW47"  Part="1" 
+F 0 "SW47" H 4900 3285 50  0000 C CNN
+F 1 "SW_Push" H 4900 3194 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 4900 3200 50  0001 C CNN
+F 3 "~" H 4900 3200 50  0001 C CNN
+	1    4900 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5FCD204E
+P 4900 3500
+AR Path="/5FCD204E" Ref="SW?"  Part="1" 
+AR Path="/5FC6757F/5FCD204E" Ref="SW13"  Part="1" 
+AR Path="/5FBF90FF/5FCD204E" Ref="SW?"  Part="1" 
+AR Path="/5FC00905/5FCD204E" Ref="SW48"  Part="1" 
+F 0 "SW48" H 4900 3785 50  0000 C CNN
+F 1 "SW_Push" H 4900 3694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 4900 3700 50  0001 C CNN
+F 3 "~" H 4900 3700 50  0001 C CNN
+	1    4900 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5FCD2054
+P 4900 4000
+AR Path="/5FCD2054" Ref="SW?"  Part="1" 
+AR Path="/5FC6757F/5FCD2054" Ref="SW14"  Part="1" 
+AR Path="/5FBF90FF/5FCD2054" Ref="SW?"  Part="1" 
+AR Path="/5FC00905/5FCD2054" Ref="SW49"  Part="1" 
+F 0 "SW49" H 4900 4285 50  0000 C CNN
+F 1 "SW_Push" H 4900 4194 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 4900 4200 50  0001 C CNN
+F 3 "~" H 4900 4200 50  0001 C CNN
+	1    4900 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5FCD205A
+P 4900 4500
+AR Path="/5FCD205A" Ref="SW?"  Part="1" 
+AR Path="/5FC6757F/5FCD205A" Ref="SW15"  Part="1" 
+AR Path="/5FBF90FF/5FCD205A" Ref="SW?"  Part="1" 
+AR Path="/5FC00905/5FCD205A" Ref="SW50"  Part="1" 
+F 0 "SW50" H 4900 4785 50  0000 C CNN
+F 1 "SW_Push" H 4900 4694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 4900 4700 50  0001 C CNN
+F 3 "~" H 4900 4700 50  0001 C CNN
+	1    4900 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5FCD2060
+P 3900 4500
+AR Path="/5FCD2060" Ref="SW?"  Part="1" 
+AR Path="/5FC6757F/5FCD2060" Ref="SW10"  Part="1" 
+AR Path="/5FBF90FF/5FCD2060" Ref="SW?"  Part="1" 
+AR Path="/5FC00905/5FCD2060" Ref="SW45"  Part="1" 
+F 0 "SW45" H 3900 4785 50  0000 C CNN
+F 1 "SW_Push" H 3900 4694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 3900 4700 50  0001 C CNN
+F 3 "~" H 3900 4700 50  0001 C CNN
+	1    3900 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5FCD2066
+P 3900 4000
+AR Path="/5FCD2066" Ref="SW?"  Part="1" 
+AR Path="/5FC6757F/5FCD2066" Ref="SW9"  Part="1" 
+AR Path="/5FBF90FF/5FCD2066" Ref="SW?"  Part="1" 
+AR Path="/5FC00905/5FCD2066" Ref="SW44"  Part="1" 
+F 0 "SW44" H 3900 4285 50  0000 C CNN
+F 1 "SW_Push" H 3900 4194 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 3900 4200 50  0001 C CNN
+F 3 "~" H 3900 4200 50  0001 C CNN
+	1    3900 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5FCD206C
+P 3900 3500
+AR Path="/5FCD206C" Ref="SW?"  Part="1" 
+AR Path="/5FC6757F/5FCD206C" Ref="SW8"  Part="1" 
+AR Path="/5FBF90FF/5FCD206C" Ref="SW?"  Part="1" 
+AR Path="/5FC00905/5FCD206C" Ref="SW43"  Part="1" 
+F 0 "SW43" H 3900 3785 50  0000 C CNN
+F 1 "SW_Push" H 3900 3694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 3900 3700 50  0001 C CNN
+F 3 "~" H 3900 3700 50  0001 C CNN
+	1    3900 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5FCD2072
+P 3900 3000
+AR Path="/5FCD2072" Ref="SW?"  Part="1" 
+AR Path="/5FC6757F/5FCD2072" Ref="SW7"  Part="1" 
+AR Path="/5FBF90FF/5FCD2072" Ref="SW?"  Part="1" 
+AR Path="/5FC00905/5FCD2072" Ref="SW42"  Part="1" 
+F 0 "SW42" H 3900 3285 50  0000 C CNN
+F 1 "SW_Push" H 3900 3194 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 3900 3200 50  0001 C CNN
+F 3 "~" H 3900 3200 50  0001 C CNN
+	1    3900 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5FCD2078
+P 3900 2500
+AR Path="/5FCD2078" Ref="SW?"  Part="1" 
+AR Path="/5FC6757F/5FCD2078" Ref="SW6"  Part="1" 
+AR Path="/5FBF90FF/5FCD2078" Ref="SW?"  Part="1" 
+AR Path="/5FC00905/5FCD2078" Ref="SW41"  Part="1" 
+F 0 "SW41" H 3900 2785 50  0000 C CNN
+F 1 "SW_Push" H 3900 2694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 3900 2700 50  0001 C CNN
+F 3 "~" H 3900 2700 50  0001 C CNN
+	1    3900 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5FCD207E
+P 2850 4500
+AR Path="/5FCD207E" Ref="SW?"  Part="1" 
+AR Path="/5FC6757F/5FCD207E" Ref="SW5"  Part="1" 
+AR Path="/5FBF90FF/5FCD207E" Ref="SW?"  Part="1" 
+AR Path="/5FC00905/5FCD207E" Ref="SW40"  Part="1" 
+F 0 "SW40" H 2850 4785 50  0000 C CNN
+F 1 "SW_Push" H 2850 4694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 2850 4700 50  0001 C CNN
+F 3 "~" H 2850 4700 50  0001 C CNN
+	1    2850 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5FCD2084
+P 2850 4000
+AR Path="/5FCD2084" Ref="SW?"  Part="1" 
+AR Path="/5FC6757F/5FCD2084" Ref="SW4"  Part="1" 
+AR Path="/5FBF90FF/5FCD2084" Ref="SW?"  Part="1" 
+AR Path="/5FC00905/5FCD2084" Ref="SW39"  Part="1" 
+F 0 "SW39" H 2850 4285 50  0000 C CNN
+F 1 "SW_Push" H 2850 4194 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 2850 4200 50  0001 C CNN
+F 3 "~" H 2850 4200 50  0001 C CNN
+	1    2850 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5FCD208A
+P 2850 3500
+AR Path="/5FCD208A" Ref="SW?"  Part="1" 
+AR Path="/5FC6757F/5FCD208A" Ref="SW3"  Part="1" 
+AR Path="/5FBF90FF/5FCD208A" Ref="SW?"  Part="1" 
+AR Path="/5FC00905/5FCD208A" Ref="SW38"  Part="1" 
+F 0 "SW38" H 2850 3785 50  0000 C CNN
+F 1 "SW_Push" H 2850 3694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 2850 3700 50  0001 C CNN
+F 3 "~" H 2850 3700 50  0001 C CNN
+	1    2850 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5FCD2090
+P 2850 3000
+AR Path="/5FCD2090" Ref="SW?"  Part="1" 
+AR Path="/5FC6757F/5FCD2090" Ref="SW2"  Part="1" 
+AR Path="/5FBF90FF/5FCD2090" Ref="SW?"  Part="1" 
+AR Path="/5FC00905/5FCD2090" Ref="SW37"  Part="1" 
+F 0 "SW37" H 2850 3285 50  0000 C CNN
+F 1 "SW_Push" H 2850 3194 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 2850 3200 50  0001 C CNN
+F 3 "~" H 2850 3200 50  0001 C CNN
+	1    2850 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5FCD2096
+P 2850 2500
+AR Path="/5FCD2096" Ref="SW?"  Part="1" 
+AR Path="/5FC6757F/5FCD2096" Ref="SW1"  Part="1" 
+AR Path="/5FBF90FF/5FCD2096" Ref="SW?"  Part="1" 
+AR Path="/5FC00905/5FCD2096" Ref="SW36"  Part="1" 
+F 0 "SW36" H 2850 2785 50  0000 C CNN
+F 1 "SW_Push" H 2850 2694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 2850 2700 50  0001 C CNN
+F 3 "~" H 2850 2700 50  0001 C CNN
+	1    2850 2500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6350 2600 7300 2600
+Connection ~ 6350 2600
+Wire Wire Line
+	6350 2500 6350 2600
+Wire Wire Line
+	6350 4600 5350 4600
+Connection ~ 6350 4600
+Wire Wire Line
+	6350 4500 6350 4600
+Wire Wire Line
+	7300 4600 6350 4600
+Wire Wire Line
+	7300 4500 7300 4600
+Wire Wire Line
+	6350 4100 5350 4100
+Connection ~ 6350 4100
+Wire Wire Line
+	6350 4000 6350 4100
+Wire Wire Line
+	7300 4100 6350 4100
+Wire Wire Line
+	7300 4000 7300 4100
+Wire Wire Line
+	6350 3600 5350 3600
+Connection ~ 6350 3600
+Wire Wire Line
+	6350 3500 6350 3600
+Wire Wire Line
+	7300 3600 6350 3600
+Wire Wire Line
+	7300 3500 7300 3600
+Wire Wire Line
+	6350 3100 5350 3100
+Connection ~ 6350 3100
+Wire Wire Line
+	6350 3000 6350 3100
+Wire Wire Line
+	7300 3100 6350 3100
+Wire Wire Line
+	7300 3000 7300 3100
+Wire Wire Line
+	7300 2600 7300 2500
+Wire Wire Line
+	5350 2600 6350 2600
+Wire Wire Line
+	8000 4000 8000 4500
+Connection ~ 8000 4000
+Wire Wire Line
+	8000 3500 8000 4000
+Connection ~ 8000 3500
+Wire Wire Line
+	8000 3000 8000 3500
+Connection ~ 8000 3000
+Wire Wire Line
+	8000 2500 8000 3000
+Connection ~ 8000 2500
+Wire Wire Line
+	8000 2000 8000 2500
+Wire Wire Line
+	7050 4000 7050 4500
+Connection ~ 7050 4000
+Wire Wire Line
+	7050 3500 7050 4000
+Connection ~ 7050 3500
+Wire Wire Line
+	7050 3000 7050 3500
+Connection ~ 7050 3000
+Wire Wire Line
+	7050 2500 7050 3000
+Connection ~ 7050 2500
+Wire Wire Line
+	7050 2000 7050 2500
+$Comp
+L Device:D D?
+U 1 1 5FD13639
+P 7450 4500
+AR Path="/5FD13639" Ref="D?"  Part="1" 
+AR Path="/5FC6757F/5FD13639" Ref="D30"  Part="1" 
+AR Path="/5FBF90FF/5FD13639" Ref="D?"  Part="1" 
+AR Path="/5FC00905/5FD13639" Ref="D65"  Part="1" 
+F 0 "D65" H 7450 4717 50  0000 C CNN
+F 1 "D" H 7450 4626 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 7450 4500 50  0001 C CNN
+F 3 "~" H 7450 4500 50  0001 C CNN
+	1    7450 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5FD1363F
+P 7450 4000
+AR Path="/5FD1363F" Ref="D?"  Part="1" 
+AR Path="/5FC6757F/5FD1363F" Ref="D29"  Part="1" 
+AR Path="/5FBF90FF/5FD1363F" Ref="D?"  Part="1" 
+AR Path="/5FC00905/5FD1363F" Ref="D64"  Part="1" 
+F 0 "D64" H 7450 4217 50  0000 C CNN
+F 1 "D" H 7450 4126 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 7450 4000 50  0001 C CNN
+F 3 "~" H 7450 4000 50  0001 C CNN
+	1    7450 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5FD13645
+P 7450 3500
+AR Path="/5FD13645" Ref="D?"  Part="1" 
+AR Path="/5FC6757F/5FD13645" Ref="D28"  Part="1" 
+AR Path="/5FBF90FF/5FD13645" Ref="D?"  Part="1" 
+AR Path="/5FC00905/5FD13645" Ref="D63"  Part="1" 
+F 0 "D63" H 7450 3717 50  0000 C CNN
+F 1 "D" H 7450 3626 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 7450 3500 50  0001 C CNN
+F 3 "~" H 7450 3500 50  0001 C CNN
+	1    7450 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5FD1364B
+P 7450 3000
+AR Path="/5FD1364B" Ref="D?"  Part="1" 
+AR Path="/5FC6757F/5FD1364B" Ref="D27"  Part="1" 
+AR Path="/5FBF90FF/5FD1364B" Ref="D?"  Part="1" 
+AR Path="/5FC00905/5FD1364B" Ref="D62"  Part="1" 
+F 0 "D62" H 7450 3217 50  0000 C CNN
+F 1 "D" H 7450 3126 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 7450 3000 50  0001 C CNN
+F 3 "~" H 7450 3000 50  0001 C CNN
+	1    7450 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5FD13651
+P 7450 2500
+AR Path="/5FD13651" Ref="D?"  Part="1" 
+AR Path="/5FC6757F/5FD13651" Ref="D26"  Part="1" 
+AR Path="/5FBF90FF/5FD13651" Ref="D?"  Part="1" 
+AR Path="/5FC00905/5FD13651" Ref="D61"  Part="1" 
+F 0 "D61" H 7450 2717 50  0000 C CNN
+F 1 "D" H 7450 2626 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 7450 2500 50  0001 C CNN
+F 3 "~" H 7450 2500 50  0001 C CNN
+	1    7450 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5FD13657
+P 6500 4500
+AR Path="/5FD13657" Ref="D?"  Part="1" 
+AR Path="/5FC6757F/5FD13657" Ref="D25"  Part="1" 
+AR Path="/5FBF90FF/5FD13657" Ref="D?"  Part="1" 
+AR Path="/5FC00905/5FD13657" Ref="D60"  Part="1" 
+F 0 "D60" H 6500 4717 50  0000 C CNN
+F 1 "D" H 6500 4626 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6500 4500 50  0001 C CNN
+F 3 "~" H 6500 4500 50  0001 C CNN
+	1    6500 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5FD1365D
+P 6500 4000
+AR Path="/5FD1365D" Ref="D?"  Part="1" 
+AR Path="/5FC6757F/5FD1365D" Ref="D24"  Part="1" 
+AR Path="/5FBF90FF/5FD1365D" Ref="D?"  Part="1" 
+AR Path="/5FC00905/5FD1365D" Ref="D59"  Part="1" 
+F 0 "D59" H 6500 4217 50  0000 C CNN
+F 1 "D" H 6500 4126 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6500 4000 50  0001 C CNN
+F 3 "~" H 6500 4000 50  0001 C CNN
+	1    6500 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5FD13663
+P 6500 3500
+AR Path="/5FD13663" Ref="D?"  Part="1" 
+AR Path="/5FC6757F/5FD13663" Ref="D23"  Part="1" 
+AR Path="/5FBF90FF/5FD13663" Ref="D?"  Part="1" 
+AR Path="/5FC00905/5FD13663" Ref="D58"  Part="1" 
+F 0 "D58" H 6500 3717 50  0000 C CNN
+F 1 "D" H 6500 3626 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6500 3500 50  0001 C CNN
+F 3 "~" H 6500 3500 50  0001 C CNN
+	1    6500 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5FD13669
+P 6500 3000
+AR Path="/5FD13669" Ref="D?"  Part="1" 
+AR Path="/5FC6757F/5FD13669" Ref="D22"  Part="1" 
+AR Path="/5FBF90FF/5FD13669" Ref="D?"  Part="1" 
+AR Path="/5FC00905/5FD13669" Ref="D57"  Part="1" 
+F 0 "D57" H 6500 3217 50  0000 C CNN
+F 1 "D" H 6500 3126 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6500 3000 50  0001 C CNN
+F 3 "~" H 6500 3000 50  0001 C CNN
+	1    6500 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5FD1366F
+P 6500 2500
+AR Path="/5FD1366F" Ref="D?"  Part="1" 
+AR Path="/5FC6757F/5FD1366F" Ref="D21"  Part="1" 
+AR Path="/5FBF90FF/5FD1366F" Ref="D?"  Part="1" 
+AR Path="/5FC00905/5FD1366F" Ref="D56"  Part="1" 
+F 0 "D56" H 6500 2717 50  0000 C CNN
+F 1 "D" H 6500 2626 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6500 2500 50  0001 C CNN
+F 3 "~" H 6500 2500 50  0001 C CNN
+	1    6500 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5FD13675
+P 7800 4500
+AR Path="/5FD13675" Ref="SW?"  Part="1" 
+AR Path="/5FC6757F/5FD13675" Ref="SW30"  Part="1" 
+AR Path="/5FBF90FF/5FD13675" Ref="SW?"  Part="1" 
+AR Path="/5FC00905/5FD13675" Ref="SW65"  Part="1" 
+F 0 "SW65" H 7800 4785 50  0000 C CNN
+F 1 "SW_Push" H 7800 4694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 7800 4700 50  0001 C CNN
+F 3 "~" H 7800 4700 50  0001 C CNN
+	1    7800 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5FD1367B
+P 7800 4000
+AR Path="/5FD1367B" Ref="SW?"  Part="1" 
+AR Path="/5FC6757F/5FD1367B" Ref="SW29"  Part="1" 
+AR Path="/5FBF90FF/5FD1367B" Ref="SW?"  Part="1" 
+AR Path="/5FC00905/5FD1367B" Ref="SW64"  Part="1" 
+F 0 "SW64" H 7800 4285 50  0000 C CNN
+F 1 "SW_Push" H 7800 4194 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 7800 4200 50  0001 C CNN
+F 3 "~" H 7800 4200 50  0001 C CNN
+	1    7800 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5FD13681
+P 7800 3500
+AR Path="/5FD13681" Ref="SW?"  Part="1" 
+AR Path="/5FC6757F/5FD13681" Ref="SW28"  Part="1" 
+AR Path="/5FBF90FF/5FD13681" Ref="SW?"  Part="1" 
+AR Path="/5FC00905/5FD13681" Ref="SW63"  Part="1" 
+F 0 "SW63" H 7800 3785 50  0000 C CNN
+F 1 "SW_Push" H 7800 3694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 7800 3700 50  0001 C CNN
+F 3 "~" H 7800 3700 50  0001 C CNN
+	1    7800 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5FD13687
+P 7800 3000
+AR Path="/5FD13687" Ref="SW?"  Part="1" 
+AR Path="/5FC6757F/5FD13687" Ref="SW27"  Part="1" 
+AR Path="/5FBF90FF/5FD13687" Ref="SW?"  Part="1" 
+AR Path="/5FC00905/5FD13687" Ref="SW62"  Part="1" 
+F 0 "SW62" H 7800 3285 50  0000 C CNN
+F 1 "SW_Push" H 7800 3194 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 7800 3200 50  0001 C CNN
+F 3 "~" H 7800 3200 50  0001 C CNN
+	1    7800 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5FD1368D
+P 7800 2500
+AR Path="/5FD1368D" Ref="SW?"  Part="1" 
+AR Path="/5FC6757F/5FD1368D" Ref="SW26"  Part="1" 
+AR Path="/5FBF90FF/5FD1368D" Ref="SW?"  Part="1" 
+AR Path="/5FC00905/5FD1368D" Ref="SW61"  Part="1" 
+F 0 "SW61" H 7800 2785 50  0000 C CNN
+F 1 "SW_Push" H 7800 2694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 7800 2700 50  0001 C CNN
+F 3 "~" H 7800 2700 50  0001 C CNN
+	1    7800 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5FD13693
+P 6850 2500
+AR Path="/5FD13693" Ref="SW?"  Part="1" 
+AR Path="/5FC6757F/5FD13693" Ref="SW21"  Part="1" 
+AR Path="/5FBF90FF/5FD13693" Ref="SW?"  Part="1" 
+AR Path="/5FC00905/5FD13693" Ref="SW56"  Part="1" 
+F 0 "SW56" H 6850 2785 50  0000 C CNN
+F 1 "SW_Push" H 6850 2694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 6850 2700 50  0001 C CNN
+F 3 "~" H 6850 2700 50  0001 C CNN
+	1    6850 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5FD13699
+P 6850 3000
+AR Path="/5FD13699" Ref="SW?"  Part="1" 
+AR Path="/5FC6757F/5FD13699" Ref="SW22"  Part="1" 
+AR Path="/5FBF90FF/5FD13699" Ref="SW?"  Part="1" 
+AR Path="/5FC00905/5FD13699" Ref="SW57"  Part="1" 
+F 0 "SW57" H 6850 3285 50  0000 C CNN
+F 1 "SW_Push" H 6850 3194 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 6850 3200 50  0001 C CNN
+F 3 "~" H 6850 3200 50  0001 C CNN
+	1    6850 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5FD1369F
+P 6850 3500
+AR Path="/5FD1369F" Ref="SW?"  Part="1" 
+AR Path="/5FC6757F/5FD1369F" Ref="SW23"  Part="1" 
+AR Path="/5FBF90FF/5FD1369F" Ref="SW?"  Part="1" 
+AR Path="/5FC00905/5FD1369F" Ref="SW58"  Part="1" 
+F 0 "SW58" H 6850 3785 50  0000 C CNN
+F 1 "SW_Push" H 6850 3694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 6850 3700 50  0001 C CNN
+F 3 "~" H 6850 3700 50  0001 C CNN
+	1    6850 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5FD136A5
+P 6850 4000
+AR Path="/5FD136A5" Ref="SW?"  Part="1" 
+AR Path="/5FC6757F/5FD136A5" Ref="SW24"  Part="1" 
+AR Path="/5FBF90FF/5FD136A5" Ref="SW?"  Part="1" 
+AR Path="/5FC00905/5FD136A5" Ref="SW59"  Part="1" 
+F 0 "SW59" H 6850 4285 50  0000 C CNN
+F 1 "SW_Push" H 6850 4194 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 6850 4200 50  0001 C CNN
+F 3 "~" H 6850 4200 50  0001 C CNN
+	1    6850 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5FD136AB
+P 6850 4500
+AR Path="/5FD136AB" Ref="SW?"  Part="1" 
+AR Path="/5FC6757F/5FD136AB" Ref="SW25"  Part="1" 
+AR Path="/5FBF90FF/5FD136AB" Ref="SW?"  Part="1" 
+AR Path="/5FC00905/5FD136AB" Ref="SW60"  Part="1" 
+F 0 "SW60" H 6850 4785 50  0000 C CNN
+F 1 "SW_Push" H 6850 4694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 6850 4700 50  0001 C CNN
+F 3 "~" H 6850 4700 50  0001 C CNN
+	1    6850 4500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8300 2500 8300 2600
+Wire Wire Line
+	8300 4600 7300 4600
+Wire Wire Line
+	8300 4500 8300 4600
+Wire Wire Line
+	8300 4100 7300 4100
+Wire Wire Line
+	8300 4000 8300 4100
+Wire Wire Line
+	8300 3600 7300 3600
+Wire Wire Line
+	8300 3500 8300 3600
+Wire Wire Line
+	8300 3100 7300 3100
+Wire Wire Line
+	8300 3000 8300 3100
+Wire Wire Line
+	7300 2600 8300 2600
+Wire Wire Line
+	9000 4000 9000 4500
+Connection ~ 9000 4000
+Wire Wire Line
+	9000 3500 9000 4000
+Connection ~ 9000 3500
+Wire Wire Line
+	9000 3000 9000 3500
+Connection ~ 9000 3000
+Wire Wire Line
+	9000 2500 9000 3000
+Connection ~ 9000 2500
+Wire Wire Line
+	9000 2000 9000 2500
+$Comp
+L Device:D D?
+U 1 1 5FD2416F
+P 8450 4500
+AR Path="/5FD2416F" Ref="D?"  Part="1" 
+AR Path="/5FC6757F/5FD2416F" Ref="D35"  Part="1" 
+AR Path="/5FBF90FF/5FD2416F" Ref="D?"  Part="1" 
+AR Path="/5FC00905/5FD2416F" Ref="D70"  Part="1" 
+F 0 "D70" H 8450 4717 50  0000 C CNN
+F 1 "D" H 8450 4626 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 8450 4500 50  0001 C CNN
+F 3 "~" H 8450 4500 50  0001 C CNN
+	1    8450 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5FD24175
+P 8450 4000
+AR Path="/5FD24175" Ref="D?"  Part="1" 
+AR Path="/5FC6757F/5FD24175" Ref="D34"  Part="1" 
+AR Path="/5FBF90FF/5FD24175" Ref="D?"  Part="1" 
+AR Path="/5FC00905/5FD24175" Ref="D69"  Part="1" 
+F 0 "D69" H 8450 4217 50  0000 C CNN
+F 1 "D" H 8450 4126 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 8450 4000 50  0001 C CNN
+F 3 "~" H 8450 4000 50  0001 C CNN
+	1    8450 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5FD2417B
+P 8450 3500
+AR Path="/5FD2417B" Ref="D?"  Part="1" 
+AR Path="/5FC6757F/5FD2417B" Ref="D33"  Part="1" 
+AR Path="/5FBF90FF/5FD2417B" Ref="D?"  Part="1" 
+AR Path="/5FC00905/5FD2417B" Ref="D68"  Part="1" 
+F 0 "D68" H 8450 3717 50  0000 C CNN
+F 1 "D" H 8450 3626 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 8450 3500 50  0001 C CNN
+F 3 "~" H 8450 3500 50  0001 C CNN
+	1    8450 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5FD24181
+P 8450 3000
+AR Path="/5FD24181" Ref="D?"  Part="1" 
+AR Path="/5FC6757F/5FD24181" Ref="D32"  Part="1" 
+AR Path="/5FBF90FF/5FD24181" Ref="D?"  Part="1" 
+AR Path="/5FC00905/5FD24181" Ref="D67"  Part="1" 
+F 0 "D67" H 8450 3217 50  0000 C CNN
+F 1 "D" H 8450 3126 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 8450 3000 50  0001 C CNN
+F 3 "~" H 8450 3000 50  0001 C CNN
+	1    8450 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5FD24187
+P 8450 2500
+AR Path="/5FD24187" Ref="D?"  Part="1" 
+AR Path="/5FC6757F/5FD24187" Ref="D31"  Part="1" 
+AR Path="/5FBF90FF/5FD24187" Ref="D?"  Part="1" 
+AR Path="/5FC00905/5FD24187" Ref="D66"  Part="1" 
+F 0 "D66" H 8450 2717 50  0000 C CNN
+F 1 "D" H 8450 2626 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 8450 2500 50  0001 C CNN
+F 3 "~" H 8450 2500 50  0001 C CNN
+	1    8450 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5FD241AB
+P 8800 2500
+AR Path="/5FD241AB" Ref="SW?"  Part="1" 
+AR Path="/5FC6757F/5FD241AB" Ref="SW31"  Part="1" 
+AR Path="/5FBF90FF/5FD241AB" Ref="SW?"  Part="1" 
+AR Path="/5FC00905/5FD241AB" Ref="SW66"  Part="1" 
+F 0 "SW66" H 8800 2785 50  0000 C CNN
+F 1 "SW_Push" H 8800 2694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 8800 2700 50  0001 C CNN
+F 3 "~" H 8800 2700 50  0001 C CNN
+	1    8800 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5FD241B1
+P 8800 3000
+AR Path="/5FD241B1" Ref="SW?"  Part="1" 
+AR Path="/5FC6757F/5FD241B1" Ref="SW32"  Part="1" 
+AR Path="/5FBF90FF/5FD241B1" Ref="SW?"  Part="1" 
+AR Path="/5FC00905/5FD241B1" Ref="SW67"  Part="1" 
+F 0 "SW67" H 8800 3285 50  0000 C CNN
+F 1 "SW_Push" H 8800 3194 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 8800 3200 50  0001 C CNN
+F 3 "~" H 8800 3200 50  0001 C CNN
+	1    8800 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5FD241B7
+P 8800 3500
+AR Path="/5FD241B7" Ref="SW?"  Part="1" 
+AR Path="/5FC6757F/5FD241B7" Ref="SW33"  Part="1" 
+AR Path="/5FBF90FF/5FD241B7" Ref="SW?"  Part="1" 
+AR Path="/5FC00905/5FD241B7" Ref="SW68"  Part="1" 
+F 0 "SW68" H 8800 3785 50  0000 C CNN
+F 1 "SW_Push" H 8800 3694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 8800 3700 50  0001 C CNN
+F 3 "~" H 8800 3700 50  0001 C CNN
+	1    8800 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5FD241BD
+P 8800 4000
+AR Path="/5FD241BD" Ref="SW?"  Part="1" 
+AR Path="/5FC6757F/5FD241BD" Ref="SW34"  Part="1" 
+AR Path="/5FBF90FF/5FD241BD" Ref="SW?"  Part="1" 
+AR Path="/5FC00905/5FD241BD" Ref="SW69"  Part="1" 
+F 0 "SW69" H 8800 4285 50  0000 C CNN
+F 1 "SW_Push" H 8800 4194 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 8800 4200 50  0001 C CNN
+F 3 "~" H 8800 4200 50  0001 C CNN
+	1    8800 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5FD241C3
+P 8800 4500
+AR Path="/5FD241C3" Ref="SW?"  Part="1" 
+AR Path="/5FC6757F/5FD241C3" Ref="SW35"  Part="1" 
+AR Path="/5FBF90FF/5FD241C3" Ref="SW?"  Part="1" 
+AR Path="/5FC00905/5FD241C3" Ref="SW70"  Part="1" 
+F 0 "SW70" H 8800 4785 50  0000 C CNN
+F 1 "SW_Push" H 8800 4694 50  0000 C CNN
+F 2 "Keebio-Parts:MX-Alps-Choc-1U-NoLED" H 8800 4700 50  0001 C CNN
+F 3 "~" H 8800 4700 50  0001 C CNN
+	1    8800 4500
+	1    0    0    -1  
+$EndComp
+Text HLabel 2050 2600 0    50   Input ~ 0
+row0
+Text HLabel 2050 3100 0    50   Input ~ 0
+row1
+Text HLabel 2050 3600 0    50   Input ~ 0
+row2
+Text HLabel 2050 4100 0    50   Input ~ 0
+row3
+Text HLabel 2050 4600 0    50   Input ~ 0
+row4
+Text HLabel 3050 2050 1    50   Input ~ 0
+col0
+Text HLabel 4100 2000 1    50   Input ~ 0
+col1
+Text HLabel 5100 2000 1    50   Input ~ 0
+col2
+Text HLabel 6050 2000 1    50   Input ~ 0
+col3
+Text HLabel 7050 2000 1    50   Input ~ 0
+col4
+Text HLabel 8000 2000 1    50   Input ~ 0
+col5
+Text HLabel 9000 2000 1    50   Input ~ 0
+col6
+Connection ~ 5350 2600
+Connection ~ 5350 3100
+Connection ~ 5350 3600
+Connection ~ 5350 4100
+Connection ~ 5350 4600
+Connection ~ 7300 2600
+Connection ~ 7300 3100
+Connection ~ 7300 3600
+Connection ~ 7300 4100
+Connection ~ 7300 4600
+$EndSCHEMATC
